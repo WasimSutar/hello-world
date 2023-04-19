@@ -1,3 +1,7 @@
+
+def print_name(myname : str = ''):
+    print(myname)
+
 ##############
 #### Main ####
 ##############
